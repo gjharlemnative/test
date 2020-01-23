@@ -1,3 +1,4 @@
 # test
 test
-![오픽성적증명서-1](https://user-images.githubusercontent.com/48425014/72979006-c695cf80-3e1a-11ea-9b1e-c0ecabc4bfa6.jpg)
+![오픽성적증명서 수강후기용](https://user-images.githubusercontent.com/48425014/72980082-23928500-3e1d-11ea-853d-e9fad854d0aa.jpg)
+
